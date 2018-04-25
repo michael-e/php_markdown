@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension id="php_markdown" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+  <name>PHP Markdown</name>
+  <description>PHP Markdown Text Formatter</description>
+  <repo type="github"/>
+  <url type="discuss"/>
+  <types>
+    <type>Text Formatter</type>
+  </types>
+  <authors>
+    <author>
+      <name github="michael-e" symphony="michael-e">Michael Eichelsdoerfer</name>
+    </author>
+  </authors>
+  <releases>
+    <release version="1.0.0" date="2018-04-25" min="2.6.x" max="2.x.x"/>
+  </releases>
+</extension>
