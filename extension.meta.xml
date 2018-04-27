@@ -2,7 +2,7 @@
 <extension id="php_markdown" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
   <name>PHP Markdown</name>
   <description>PHP Markdown Text Formatter</description>
-  <repo type="github"/>
+  <repo type="github">https://github.com/michael-e/php_markdown</repo>
   <url type="discuss"/>
   <types>
     <type>Text Formatter</type>
