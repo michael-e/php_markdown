@@ -1,5 +1,7 @@
 <?php
 
+require_once EXTENSIONS . '/php_markdown/vendor/autoload.php';
+
 use Michelf\Markdown;
 
 class FormatterPHP_Markdown extends TextFormatter
