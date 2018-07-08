@@ -13,6 +13,10 @@
     </author>
   </authors>
   <releases>
+    <release version="1.0.1" date="2018-07-08" min="2.6.x" max="2.x.x">
+      * Fix autoloading issue
+      * Add GitHub repo
+    </release>
     <release version="1.0.0" date="2018-04-25" min="2.6.x" max="2.x.x"/>
   </releases>
 </extension>
