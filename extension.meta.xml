@@ -13,6 +13,9 @@
     </author>
   </authors>
   <releases>
+    <release version="1.0.2" date="2019-12-02" min="2.6.x" max="2.x.x">
+      * Update dependencies (PHP Markdown 1.8.0 => 1.9.0)
+    </release>
     <release version="1.0.1" date="2018-07-08" min="2.6.x" max="2.x.x">
       * Fix autoloading issue
       * Add GitHub repo
